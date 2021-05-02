@@ -7,7 +7,7 @@ Javascript Form
 ### Description
 In this program, I use Javascript to create a form for users 
 
-### Files used
+### Files used to create the project
 form_test.html
 
 ### Credits
