@@ -2,7 +2,7 @@
 This README was created on April 30, 2021.
 
 ### Project Title
-Javascript Form
+Javascript Forms and projects that can be used for a variety of different things
 
 ### Description
 In this program, I use Javascript to create a form for users 
