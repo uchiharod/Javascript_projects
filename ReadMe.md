@@ -11,4 +11,4 @@ In this program, I use Javascript to create a form for users.
 form_test.html
 
 ### Objective 
-To build upon my existing javascript skills and to build my github portfolio.
+To use javascript to make forms.
